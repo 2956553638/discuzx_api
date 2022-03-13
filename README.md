@@ -58,3 +58,5 @@ Mysql：5.7.18 DiscuzX：3.4
 “status”:true, “time”:1623175975,
 “message”:“密码修改成功”
 }
+
+[DiscuzX API 使用说明.docx](https://github.com/2956553638/discuzx_api/files/8239335/DiscuzX.API.docx)
