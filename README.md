@@ -16,7 +16,7 @@ Mysql：5.7.18 DiscuzX：3.4
 
 1.解压缩后将 discuzx_api 文件夹移动到 DiscuzX 根目录。
 
-2.打开 config.php 查看 15~20、35~36 行，按需修改。
+2.打开 config.php 查看 15-20、35-36 行，按需修改。
 
 3.打开 register.php 查看 26~107 行，按照 26~37 行的注释修改内容。
 
