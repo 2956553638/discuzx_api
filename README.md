@@ -3,7 +3,6 @@ DiscuzX API 使用说明
 前言
 此API 解决了自建网站与 DiscuzX 不同数据库之间的账户问题，即使用相同的账号密码就可登入这两个站点。示例：用户在你的网站注册了一个账户，你的网站后端接收数据后，调用此API 同时注册 DiscuzX/UCenter 账户，实现账户互通。
 此API 由 LF_Mcxixif_ 开发QQ 2398441549
-网 站 https://www.tpcraft.cn/[DiscuzX API 使用说明.docx](https://github.com/2956553638/discuzx_api/files/8239329/DiscuzX.API.docx)
 
 测试环境
 Server：IIS PHP：7.4
